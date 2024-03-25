@@ -3,6 +3,7 @@
 
 example_key_1: this is a string
 example_key_2: this is another string
+ex: this is manjula
  
 # Every YAML file should end with three dots
 ...

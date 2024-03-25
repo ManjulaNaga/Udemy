@@ -1,0 +1,28 @@
+---
+- Aston Martin:
+    manu: Apple
+    year: 1999
+    website: www.aaa.com
+    founded_by: 
+       - Veeru
+- Fiat:
+    manu: Bat
+    year: 1998
+    website: www.bbb.com
+    founded_by: 
+        - Dheera
+- Ford:
+    manu: Cat
+    year: 1997
+    website: www.ccc.com
+    founded_by: 
+        - Sura
+
+- Vauxhall:
+    manu: Dog
+    year: 1996
+    website: www.ddd.com
+    founded_by: 
+      - Karuda
+      - Garuda
+...
